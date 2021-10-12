@@ -13,7 +13,7 @@ coreschema==0.0.4
 cryptography==3.4.7
 dbus-python==1.2.16
 defusedxml==0.7.1
-distlib==0.3.1
+setuptools==1.0
 distro==1.5.0
 dj-database-url==0.5.0
 Django==3.2.7
